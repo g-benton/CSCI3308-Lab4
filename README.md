@@ -1,5 +1,6 @@
 # CSCI3308-Lab4
 Greg Benton
+<<<<<<< HEAD
 this WILL cause a merge conflict
 Partner: Michael Barlow change
 Lecture 4 lab for CSCI 3308, summer 2017 change
